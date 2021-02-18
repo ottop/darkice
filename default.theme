@@ -1,0 +1,98 @@
+ThemeDescription="A simple dark theme"
+ThemeAuthor="Otto Petäjä"
+License="GPL"
+
+# Look of the theme
+Look="pixmap"
+
+# Title bars
+TitleBarHeight=19
+TitleBarJustify=50
+TitleButtonsLeft=""
+TitleButtonsRight="xmi"
+TitleButtonsSupported="sxmihrd"
+ColorActiveTitleBar="rgb:35/35/35"
+ColorNormalTitleBar="rgb:35/35/35"
+ColorNormalTitleBarText="rgb:C0/C0/C0"
+ColorActiveTitleBarText="rgb:C0/C0/C0"
+
+# Borders
+BorderSizeX=3
+BorderSizeY=3
+CornerSizeX=8
+CornerSizeY=8
+DlgBorderSizeX=1
+DlgBorderSizeY=1
+ColorNormalBorder="rgb:35/35/35"
+ColorActiveBorder="rgb:35/35/35"
+
+# Buttons
+ColorNormalButton="rgb:35/35/35"
+ColorToolButton="rgb:35/35/35"
+ColorNormalWorkspaceButton="rgb:35/35/35"
+ColorActiveWorkspaceButton="rgb:255/255/255"
+ColorNormalWorkspaceButtonText="rgb:C0/C0/C0"
+ColorActiveWorkspaceButtonText="rgb:C0/C0/C0"
+
+# Scroll bars
+ColorScrollBar="rgb:C0/C0/C0"
+ColorScrollBarSlider="rgb:80/80/80"
+ColorScrollBarButtonArrow="rgb:80/80/80"
+
+# Workspaces
+ColorNormalWorkspaceButton="rgb:35/35/35"
+ColorActiveWorkspaceButton="rgb:255/255/255"
+ColorNormalWorkspaceButtonText="rgb:C0/C0/C0"
+ColorActiveWorkspaceButtonText="rgb:C0/C0/C0"
+
+# Menus
+ColorNormalMenu="rgb:35/35/35"
+ColorActiveMenuItem="rgb:255/255/255"
+ColorNormalMenuItemText="rgb:C0/C0/C0"
+ColorActiveMenuItemText="rgb:C0/C0/C0"
+ColorDisabledMenuItemText="rgb:80/80/80"
+
+# Taskbar
+
+ColorDefaultTaskBar="rgb:35/35/35"
+ColorNormalTaskBarApp="rgb:35/35/35"
+ColorNormalTaskBarAppText="rgb:C0/C0/C0"
+ColorActiveTaskBarApp="rgb:255/255/255"
+ColorActiveTaskBarAppText="rgb:C0/C0/C0"
+ColorMinimizedTaskBarApp="rgb:35/35/35"
+ColorMinimizedTaskBarAppText="rgb:C0/C0/C0"
+
+# Listboxes
+ColorListBox="rgb:35/35/35"
+ColorListBoxText="rgb:C0/C0/C0"
+ColorListBoxSelection="rgb:80/80/80"
+ColorListBoxSelectionText="rgb:C0/C0/C0"
+
+
+#Whatever movesize is
+ColorMoveSizeStatus="rgb:C0/C0/C0"
+ColorMoveSizeStatusText="rgb:80/80/80"
+
+
+# Clock customizations
+ColorClock="rgb:35/35/35"
+ColorClockText="rgb:C0/C0/C0"
+TaskBarClockLeds=0
+
+# System monitoring background colors
+ColorNetIdle="rgb:35/35/35"
+ColorCPUStatusIdle="rgb:35/35/35"
+ColorMEMStatusFree="rgb:35/35/35"
+
+# Dimension of the small icons
+SmallIconSize=8 # 8-128
+
+# Dimension of the large icons
+LargeIconSize=16 # 8-128
+
+# Dimension of the extra large icons
+HugeIconSize=24 # 8-128
+
+# Desktop stuff
+DesktopBackgroundColor=""
+DesktopBackgroundImage=""
