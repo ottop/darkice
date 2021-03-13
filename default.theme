@@ -31,6 +31,7 @@ ColorNormalButton="rgb:35/35/35"
 ColorToolButton="rgb:35/35/35"
 ColorNormalWorkspaceButton="rgb:35/35/35"
 ColorActiveWorkspaceButton="rgb:255/255/255"
+ColorNormalButtonText="rgb:C0/C0/C0"
 ColorNormalWorkspaceButtonText="rgb:C0/C0/C0"
 ColorActiveWorkspaceButtonText="rgb:C0/C0/C0"
 
@@ -53,7 +54,6 @@ ColorActiveMenuItemText="rgb:C0/C0/C0"
 ColorDisabledMenuItemText="rgb:80/80/80"
 
 # Taskbar
-
 ColorDefaultTaskBar="rgb:35/35/35"
 ColorNormalTaskBarApp="rgb:35/35/35"
 ColorNormalTaskBarAppText="rgb:C0/C0/C0"
@@ -68,11 +68,22 @@ ColorListBoxText="rgb:C0/C0/C0"
 ColorListBoxSelection="rgb:80/80/80"
 ColorListBoxSelectionText="rgb:C0/C0/C0"
 
+# Dialog box
+ColorDialog="rgb:35/35/35"
+ColorLabel="rgb:35/35/35"
+ColorLabelText="rgb:C0/C0/C0"
 
-#Whatever movesize is
-ColorMoveSizeStatus="rgb:C0/C0/C0"
-ColorMoveSizeStatusText="rgb:80/80/80"
+# Tooltip 
+ColorToolTip="rgb:35/35/35"
+ColorToolTipText="rgb:C0/C0/C0"
 
+# Whatever movesize is
+ColorMoveSizeStatus="rgb:35/35/35"
+ColorMoveSizeStatusText="rgb:C0/C0/C0"
+
+# Quickswitch
+ColorQuickSwitch="rgb:35/35/35"
+ColorQuickSwitchText="rgb:C0/C0/C0"
 
 # Clock customizations
 ColorClock="rgb:35/35/35"
@@ -84,6 +95,9 @@ ColorNetIdle="rgb:35/35/35"
 ColorCPUStatusIdle="rgb:35/35/35"
 ColorMEMStatusFree="rgb:35/35/35"
 
+#Dimension of the menu icons
+MenuIconSize=16
+
 # Dimension of the small icons
 SmallIconSize=8 # 8-128
 
@@ -92,6 +106,7 @@ LargeIconSize=16 # 8-128
 
 # Dimension of the extra large icons
 HugeIconSize=24 # 8-128
+
 
 # Desktop stuff
 DesktopBackgroundColor=""
