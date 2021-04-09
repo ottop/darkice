@@ -65,7 +65,7 @@ ColorMinimizedTaskBarAppText="rgb:C0/C0/C0"
 # Listboxes
 ColorListBox="rgb:35/35/35"
 ColorListBoxText="rgb:C0/C0/C0"
-ColorListBoxSelection="rgb:80/80/80"
+ColorListBoxSelection="rgb:255/255/255"
 ColorListBoxSelectionText="rgb:C0/C0/C0"
 
 # Dialog box
@@ -84,6 +84,7 @@ ColorMoveSizeStatusText="rgb:C0/C0/C0"
 # Quickswitch
 ColorQuickSwitch="rgb:35/35/35"
 ColorQuickSwitchText="rgb:C0/C0/C0"
+ColorQuickSwitchActive="rgb:255/255/255"     
 
 # Clock customizations
 ColorClock="rgb:35/35/35"
