@@ -84,7 +84,7 @@ ColorMoveSizeStatusText="rgb:C0/C0/C0"
 # Quickswitch
 ColorQuickSwitch="rgb:35/35/35"
 ColorQuickSwitchText="rgb:C0/C0/C0"
-ColorQuickSwitchActive="rgb:255/255/255"     
+ColorQuickSwitchActive="rgb:255/255/255"        
 
 # Clock customizations
 ColorClock="rgb:35/35/35"
@@ -96,7 +96,10 @@ ColorNetIdle="rgb:35/35/35"
 ColorCPUStatusIdle="rgb:35/35/35"
 ColorMEMStatusFree="rgb:35/35/35"
 
-#Dimension of the menu icons
+# CPU temp color
+ColorCPUStatusTemp="rgb:C0/C0/C0"
+
+# Dimension of the menu icons
 MenuIconSize=16
 
 # Dimension of the small icons
